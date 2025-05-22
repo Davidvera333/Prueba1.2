@@ -15,12 +15,12 @@
 
  <body>
      <h1>Titulo provisional para verquetalva esto </h1>
-     <form action="" method="post">
+     <form action="proceso.php" method="post">
          <legend>Formulario-prueba</legend>
          <label for=""></label>
          <input type="text" name="nombre" id="nombre" placeholder="Nombre">
          <input type="text" name="apellido" id="apellido" placeholder="Apellido">
-         <input type="button" value="enviar" id="enviar">
+         <input type="submit" value="enviar" id="enviar">
 
 
      </form>
