@@ -110,3 +110,12 @@ git branch -r                   # Ver las ramas remotas
 git checkout main               # Cambiar a la rama main (o la que quieras fusionar)
 git merge david-prueba          # Fusionar la rama david-prueba en main
 ```
+
+COMANDOS
+POWERSHELL
+Remove-Item nombre_del_fichero.txt # Borra el fichero
+New-Item nombre_del_fichero.txt -ItemType File # Crea el fichero
+//
+CMD
+del nombre_del_fichero.txt :: Borra el fichero
+type nul > nombre_del_fichero.txt :: Crea el fichero vacío
